@@ -2,7 +2,7 @@
 /*
 Plugin Name: Programmatic SEO Tool
 Description: A WordPress tool for programmatic SEO analysis of published posts.
-Version: 3.1
+Version: 1.0
 Author: Kristijan Ljamov
 */
 
